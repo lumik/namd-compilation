@@ -1,0 +1,7 @@
+# vim temporary files
+*.swp
+*.swo
+
+# namd directory and package
+NAMD_2.12_Source
+*.tar.gz
